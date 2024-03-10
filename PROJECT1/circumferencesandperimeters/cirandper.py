@@ -1,4 +1,4 @@
-def cirandpermenu:
+def cirandpermenu():
 
     print("╔════════════════════════════════════════╗")
     print("║ CIRCUMFERENCE AND PERIMETER OF DRAWINGS║")
@@ -14,9 +14,9 @@ def cirandpermenu:
 
         radius = int(input("Enter radius for calculation : "))
 
-        float pi = 3.14
+        pi = 3.14
 
-        float circumofcir = 2*pi*r
+        circumofcir = 2*pi*r
 
         print("The circumference of circle is : {}".format(circumofcir))
         
@@ -27,7 +27,7 @@ def cirandpermenu:
 
         side = int(input("Enter side for calculation : "))
 
-        float periofsqr = side*4
+        periofsqr = side*4
 
         print("The area of square is : {}".format(periofsqr))
 
