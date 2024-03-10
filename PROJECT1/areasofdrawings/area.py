@@ -1,4 +1,4 @@
-def areamenu:
+def areamenu():
 
     print("╔════════════════════╗")
     print("║ AREAS OF DRAWINGS  ║")
@@ -16,9 +16,9 @@ def areamenu:
 
         radius = int(input("Enter radius for calculation : "))
 
-        float pi = 3.14
+        pi = 3.14
 
-        float areaofcir = (pi*radius)
+        areaofcir = (pi*radius)
 
         print("The area of circle is : {}".format(areaofcir))
         
@@ -29,6 +29,6 @@ def areamenu:
 
         side = int(input("Enter side for calculation : "))
 
-        float areaofsqr = side*side
+        areaofsqr = side*side
 
         print("The area of square is : {}".format(areaofsqr))
