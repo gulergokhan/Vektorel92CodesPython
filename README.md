@@ -3,8 +3,9 @@
 As in the png file , program shows the main menu with subheadings.
 Your input choosing mini-programs for calculations and drawings.
 
+![Adsız](https://github.com/gulergokhan/Vektorel92CodesPython/assets/151137955/8d036057-366d-425f-ba9a-f702223c21aa)
 
-![png1](https://github.com/gulergokhan/Vektorel92CodesPython/assets/151137955/620bd22e-1b49-40c6-a8b6-000d4fae48a7)
+
 
 
 ## How Subheadings Works?
