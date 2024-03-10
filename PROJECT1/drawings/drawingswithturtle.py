@@ -1,16 +1,16 @@
 def drawmenu():
 
-print("╔═════════════════════╗")
-print("║    DRAWING MENU     ║")
-print("║                     ║")
-print("║ 1.DRAW A CIRCLE     ║")
-print("║ 2.DRAW A SQUARE     ║")
-print("╚═════════════════════╝")
+ print("╔═════════════════════╗")
+ print("║    DRAWING MENU     ║")
+ print("║                     ║")
+ print("║ 1.DRAW A CIRCLE     ║")
+ print("║ 2.DRAW A SQUARE     ║")
+ print("╚═════════════════════╝")
 
 
-choose = input()
+ choose = input()
 
-if choose == '1' :
+ if choose == '1' :
     
 
     radius = int(input("Enter the radius for calculation : "))
@@ -26,7 +26,7 @@ if choose == '1' :
     turtle.pendown()
 
 
-elif choose == '2' :
+ elif choose == '2' :
 
     side = int(input("Enter the side for calculation : "))
 
@@ -42,7 +42,7 @@ elif choose == '2' :
         turtle.left(90)
 
     turtle.end_fill()
-     turtle.setheading(0)
+    turtle.setheading(0)
      
 
 
