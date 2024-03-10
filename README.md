@@ -1,5 +1,4 @@
 
-![7LIp](https://github.com/gulergokhan/Vektorel92PROJECT1/assets/151137955/51e5ea5d-9743-420b-b479-6b306c6b9050)
 
 
 ## How Main Menu Works?
